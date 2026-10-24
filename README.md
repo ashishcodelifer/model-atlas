@@ -3,6 +3,7 @@
 An interactive atlas of AI model pricing. Explore hundreds of text models in a Cytoscape.js graph, compare input and output prices on a logarithmic scatter plot, estimate monthly spend, and export the full catalog.
 
 **Live demo:** [model-atlas-xi.vercel.app](https://model-atlas-xi.vercel.app)
+**Source:** [github.com/ashishcodelifer/model-atlas](https://github.com/ashishcodelifer/model-atlas)
 
 The catalog is assembled at runtime from three public sources and merged into one normalized model list with per-model provenance. Typical builds contain **800+ models from ~75 providers**.
 
